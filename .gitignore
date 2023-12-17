@@ -1,0 +1,28 @@
+# Ignorar directorio node_modules
+node_modules/
+
+# Ignorar archivo .env
+.env
+
+# Archivos generados por TypeScript
+*.js
+*.js.map
+
+# Archivos generados por el compilador de TypeScript
+dist/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de dependencias de desarrollo
+devDependencies/
+
+# Archivos de logs
+logs/
+
+# Archivos de compilación
+build/
+
+# Archivos de pruebas
+coverage/
